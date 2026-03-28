@@ -49,6 +49,7 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 ---
 
 ## DESIGN
+<img width="1428" height="1600" alt="image" src="https://github.com/user-attachments/assets/e0c813ca-3afc-48e3-8e86-5a4c7839b683" />
 
 Given: fH = 1 KHz = 1/ (2πRC) Let C = 0.1 µF, R = 1.6 KΩ
 For n = 2, α (damping factor) = 1.414, Passband gain = Ao = 3 - α =3 – 1.414 = 1.586.
@@ -76,25 +77,16 @@ PROCEDURE - (LPF):
 
 ## TABULATION
 
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+<img width="1599" height="974" alt="image" src="https://github.com/user-attachments/assets/052a661a-593f-4abc-a29f-7ce7505089a1" />
 		
 
 ---
+## GRAPH
+<img width="1383" height="1034" alt="image" src="https://github.com/user-attachments/assets/7ee9df40-0677-4798-81f1-41277de6bcd5" />
+
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1600" height="845" alt="image" src="https://github.com/user-attachments/assets/59d1a7d1-eafd-4976-a6b7-38e8179d4af7" />
 
 ---
 
@@ -132,6 +124,7 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 ---
 
 ## DESIGN
+<img width="1530" height="1600" alt="image" src="https://github.com/user-attachments/assets/687940ae-d9f6-46af-9f11-82a007e4e18e" />
 
 Given: fH = 1 KHz = 1/ (2πRC) Let C = 0.1 µF, R = 1.6 KΩ
 For n = 2, α (damping factor) = 1.414, Passband gain = Ao = 3 - α =3 – 1.414 = 1.586.
@@ -159,27 +152,17 @@ PROCEDURE - ( HPF):
 
 ## TABULATION
 
-		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+<img width="1404" height="834" alt="image" src="https://github.com/user-attachments/assets/e5b67b9f-81a0-4ddc-821a-65b3db1c3bf5" />
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/c0d4dc42-d56d-4b35-a54b-1bddeb84b698" />
 
 ---
+## GRAPH
+<img width="1407" height="1032" alt="image" src="https://github.com/user-attachments/assets/ec209678-c908-4d60-9981-d0088d1eb2e8" />
+
 
  ## 6C Band Pass Filter
 
@@ -215,6 +198,7 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 ---
 
 ## DESIGN
+<img width="1600" height="1407" alt="image" src="https://github.com/user-attachments/assets/c3e476b1-ec95-4160-afca-5df49bc7ca23" />
 
 DESIGN: BAND PASS FILTER
 
@@ -244,25 +228,15 @@ PROCEDURE:BAND PASS FILTER
 
 ## TABULATION
 
-		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+<img width="1480" height="1600" alt="image" src="https://github.com/user-attachments/assets/b8f897f0-9894-4071-9c9c-0855c8f619f3" />
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1919" height="999" alt="image" src="https://github.com/user-attachments/assets/62e4e94d-b5ae-4f7e-8b45-ce2f50097d49" />
+
+## GRAPH
+<img width="1409" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd1f80e2-412a-40dd-bde5-0635e99163ea" />
 
 ---
 ##RESULT:
