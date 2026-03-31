@@ -239,9 +239,9 @@ PROCEDURE:BAND PASS FILTER
 <img width="1409" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd1f80e2-412a-40dd-bde5-0635e99163ea" />
 
 ---
-##RESULT:
-	Thus an Active Low pass, High pass and Band Pass Filters are designed and
-tested using op-amp IC 741.
+## RESULT:
+![WhatsApp Image 2026-03-31 at 1 39 18 PM (2)](https://github.com/user-attachments/assets/3880335c-da28-40d1-991e-c6d72d37e9cc)
+
 ---
 
    
